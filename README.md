@@ -35,8 +35,8 @@ After you create a new project based on the current template repository using th
 
 | Day | Part | Execution Time (ms) |
 |-----|:----:|--------------------:|
-| 1   |  1   |                     |
-|     |  2   |                     |
+| 1   |  1   |                  26 |
+|     |  2   |                  49 |
 | 2   |  1   |                  37 |
 |     |  2   |                  36 |
 | 3   |  1   |                  68 |
