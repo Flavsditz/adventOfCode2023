@@ -48,6 +48,8 @@ minimal scaffold will appear in your GitHub account with the following structure
 |     |  2   |              312598 |
 | 6   |  1   |                  10 |
 |     |  2   |                  18 |
+| 7   |  1   |                  48 |
+|     |  2   |                  47 |
 
 [aoc]: https://adventofcode.com
 
