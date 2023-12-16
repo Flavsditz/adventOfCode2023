@@ -60,7 +60,7 @@ minimal scaffold will appear in your GitHub account with the following structure
 |     |  2   |                  49 |
 | 12  |  1   |                  66 |
 |     |  2   |                     |
-| 13  |  1   |                     |
+| 13  |  1   |                  20 |
 |     |  2   |                     |
 | 14  |  1   |                     |
 |     |  2   |                     |
