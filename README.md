@@ -60,6 +60,30 @@ minimal scaffold will appear in your GitHub account with the following structure
 |     |  2   |                  49 |
 | 12  |  1   |                  66 |
 |     |  2   |                     |
+| 13  |  1   |                     |
+|     |  2   |                     |
+| 14  |  1   |                     |
+|     |  2   |                     |
+| 15  |  1   |                     |
+|     |  2   |                     |
+| 16  |  1   |                     |
+|     |  2   |                     |
+| 17  |  1   |                     |
+|     |  2   |                     |
+| 18  |  1   |                     |
+|     |  2   |                     |
+| 19  |  1   |                     |
+|     |  2   |                     |
+| 20  |  1   |                     |
+|     |  2   |                     |
+| 21  |  1   |                     |
+|     |  2   |                     |
+| 22  |  1   |                     |
+|     |  2   |                     |
+| 23  |  1   |                     |
+|     |  2   |                     |
+| 24  |  1   |                     |
+|     |  2   |                     |
 
 [aoc]: https://adventofcode.com
 
